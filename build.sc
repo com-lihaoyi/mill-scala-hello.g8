@@ -1,4 +1,4 @@
-import $ivy.`io.chris-kipp::mill-giter8::0.2.2`
+import $ivy.`io.chris-kipp::mill-giter8::0.2.3`
 
 import io.kipp.mill.giter8.G8Module
 import mill._, scalalib._
