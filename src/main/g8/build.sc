@@ -3,7 +3,7 @@ import mill.scalalib._
 
 object $name;format="camel"$ extends ScalaModule {
 
-  def scalaVersion = "2.13.10"
+  def scalaVersion = "2.13.11"
 
   object test extends Tests with TestModule.Munit {
     def ivyDeps = Agg(
