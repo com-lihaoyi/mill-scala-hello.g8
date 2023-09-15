@@ -17,7 +17,7 @@ object g8 extends G8Module {
   * then updates them in the actual template.
   */
 object Steward extends ScalaModule {
-  def scalaVersion = "2.13.11"
+  def scalaVersion = "2.13.12"
   def ivyDeps = Agg(
     ivy"org.scalameta::munit::0.7.29"
   )
