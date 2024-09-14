@@ -19,6 +19,6 @@ object g8 extends G8Module {
 object Steward extends ScalaModule {
   def scalaVersion = "2.13.14"
   def ivyDeps = Agg(
-    ivy"org.scalameta::munit::1.0.1"
+    ivy"org.scalameta::munit::1.0.2"
   )
 }
