@@ -14,5 +14,5 @@ g8 com-lihaoyi/mill-scala-hello.g8
 _Usage with Mill_
 
 ```sh
-mill init com-lihaoyi/mill-scala-hello.g8
+mill -i init com-lihaoyi/mill-scala-hello.g8
 ```
