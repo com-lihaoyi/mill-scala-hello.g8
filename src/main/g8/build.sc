@@ -7,7 +7,7 @@ object $name;format="camel"$ extends ScalaModule {
 
   object test extends ScalaTests with TestModule.Munit {
     def ivyDeps = Agg(
-      ivy"org.scalameta::munit::1.0.1"
+      ivy"org.scalameta::munit::1.0.4"
     )
   }
 }
